@@ -1,5 +1,5 @@
 ## Welcome to my profile!! :hedgehog:
-_Davi Vitorino da Silva, Full-stack Developer._
+_Davi Vitorino da Silva, Full-stack Developer_
 
 ### Social :busts_in_silhouette:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davitorino/)[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/davitorino26)
