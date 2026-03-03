@@ -1,8 +1,2 @@
 ## Welcome to my profile! :hedgehog:
 _Davi Vitorino da Silva, Full-stack Developer_
-
-### Social :busts_in_silhouette:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davitorino/)[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/davitorino26)
-
-### Stats :bar_chart:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davsire&theme=transparent&bg_color=011936&border_color=36225A&show_icons=true&icon_color=8B84D6&title_color=8B84D6&text_color=FFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davsire&layout=compact&bg_color=011936&border_color=36225A&title_color=8B84D6&text_color=FFF)
